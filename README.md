@@ -70,16 +70,6 @@ I'm a **full-stack and AI/ML engineer** who cares about software that holds up o
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ephrem2129&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem2129&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ephrem2129&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
