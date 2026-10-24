@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Ephrem2129.png?size=200" width="150" height="150" alt="Ephrem Ayalew" />
-
 # Ephrem Ayalew
 
 ### Full-Stack & AI/ML Engineer
