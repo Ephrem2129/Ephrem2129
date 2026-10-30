@@ -10,7 +10,7 @@
 
 🌐 **Portfolio:** [ephrem-ayalew.vercel.app](https://ephrem-ayalew.vercel.app/)
 &nbsp;•&nbsp;
-📧 **Email:** [ephremayalew1221@gmail.com](mailto:ephremayalew1221@gmail.com)
+📧 **Email:** [ephremayalew486@gmail.com](mailto:ephremayalew1221@gmail.com)
 &nbsp;•&nbsp;
 💼 **LinkedIn:** [ephrem-ayalew](https://www.linkedin.com/in/ephrem-ayalew/)
 &nbsp;•&nbsp;
@@ -79,7 +79,7 @@ I'm always happy to talk about engineering, collaborate on projects or hear abou
 
 - 🌐 Portfolio: [ephrem-ayalew.vercel.app](https://ephrem-ayalew.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ephrem-ayalew](https://www.linkedin.com/in/ephrem-ayalew/)
-- 📧 Email: [ephremayalew1221@gmail.com](mailto:ephremayalew1221@gmail.com)
+- 📧 Email: [ephremayalew486@gmail.com](mailto:ephremayalew1221@gmail.com)
 
 <div align="center">
 
